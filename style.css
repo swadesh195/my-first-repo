@@ -1,3 +1,6 @@
 p{
-    color: red;
+    color: blueviolet;
+    border: 2px solid tomato;
+    padding: 20px 10px;
+    background-color: lightgray;
 }
